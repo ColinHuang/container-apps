@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "description": "Node-RED visual tool for wiring the Internet of Things",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "https://raw.githubusercontent.com/qnap-dev/container-apps/1.10/images/iot_node_red.png",
+        "displayName": "Noooooo",
+        "name": "nonono",
+        "version": "123yaya",
+        "location": "https://hub.docker.com/r/nodered/node-red-docker/",
+        "type": "render",
+        "qcsVersion": "1.5"
+    }
+]
